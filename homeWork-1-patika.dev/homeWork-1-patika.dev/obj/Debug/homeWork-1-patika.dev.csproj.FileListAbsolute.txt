@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/homeWork-1-patika.dev/homeWork-1-patika.dev/bin/Debug/homeWork-1-patika.dev.exe
+/Users/muhammedkilic/Projects/homeWork-1-patika.dev/homeWork-1-patika.dev/bin/Debug/homeWork-1-patika.dev.pdb
+/Users/muhammedkilic/Projects/homeWork-1-patika.dev/homeWork-1-patika.dev/obj/Debug/homeWork-1-patika.dev.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/homeWork-1-patika.dev/homeWork-1-patika.dev/obj/Debug/homeWork-1-patika.dev.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/homeWork-1-patika.dev/homeWork-1-patika.dev/obj/Debug/homeWork-1-patika.dev.exe
+/Users/muhammedkilic/Projects/homeWork-1-patika.dev/homeWork-1-patika.dev/obj/Debug/homeWork-1-patika.dev.pdb
