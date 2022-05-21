@@ -165,7 +165,7 @@ namespace homeWork1patika.dev
             string str;
             Console.WriteLine("*_*_* Example 4 *_*_*");
             Console.WriteLine("Enter a sentence:");
-u            str = Console.ReadLine();
+            str = Console.ReadLine();
 
             char[] charArray = str.ToCharArray();
 
