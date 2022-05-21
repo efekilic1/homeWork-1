@@ -2,7 +2,7 @@
 Algoritma Soruları app.patika.dev
 
 
-# Question-1
+### Question-1
 
 Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n). Sonrasında kullanıcıdan n adet pozitif sayı girmesini isteyin. Kullanıcının girmiş olduğu sayılardan çift olanlar console'a yazdırın.
 
@@ -11,20 +11,20 @@ Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n).
 <img width="527" alt="Ekran Resmi 2022-05-21 16 47 29" src="https://user-images.githubusercontent.com/105243448/169655830-c5f7cebd-8658-459e-a7d8-60e17c10d1aa.png">
 
 
-# Question-2
+### Question-2
 
 Bir konsol uygulamasında kullanıcıdan pozitif iki sayı girmesini isteyin (n, m). Sonrasında kullanıcıdan n adet pozitif sayı girmesini isteyin. Kullanıcının girmiş olduğu sayılardan m'e eşit yada tam bölünenleri console'a yazdırın.
 
 
 <img width="394" alt="Ekran Resmi 2022-05-21 16 49 01" src="https://user-images.githubusercontent.com/105243448/169655864-a4f1b7a4-bf94-4d0b-a21c-b46b6a16a0a7.png">
 
-# Question-3
+### Question-3
 
 Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). Sonrasında kullanıcıdan n adet kelime girmesi isteyin. Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın.
 
 <img width="563" alt="Ekran Resmi 2022-05-21 16 50 06" src="https://user-images.githubusercontent.com/105243448/169655892-230a00f2-508c-4171-8796-8af0dd17a5c1.png">
 
-# Question-4
+### Question-4
 
 Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin. Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
 <img width="542" alt="Ekran Resmi 2022-05-21 16 53 53" src="https://user-images.githubusercontent.com/105243448/169655924-06862e2c-8250-4b5d-b232-7fbfefe829f6.png">
